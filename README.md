@@ -8,7 +8,7 @@ Building scalable, maintainable, and high-performance web applications with mode
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ali-jacobi&label=Profile%20Views&color=111827&style=for-the-badge" />
+
 
 </div>
 
