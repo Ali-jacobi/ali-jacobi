@@ -1,9 +1,343 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_jacobi) 
+# 👋 Hi, I'm Ali Jacobi
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Full Stack Web Developer · Laravel & Vue.js
 
+Building scalable, maintainable, and high-performance web applications with modern backend and frontend technologies.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ali-jacobi&label=Profile%20Views&color=111827&style=for-the-badge" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Full Stack Web Developer focused on building modern, scalable, and maintainable web applications with **Laravel and Vue.js**.
+
+I enjoy working across the entire development lifecycle — from database design and backend architecture to building responsive user interfaces, optimizing performance, and deploying applications to production.
+
+My primary focus is on:
+
+* ⚡ Clean and maintainable code
+* 🏗️ Scalable application architecture
+* 🔐 Secure backend systems
+* 🚀 High-performance applications
+* 🔄 Background processing and queues
+* 📊 Database optimization
+* 📱 Modern and responsive user interfaces
+
+---
+
+# 🛠️ Tech Stack
+
+## Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
+
+```text
+PHP 8+
+Laravel
+RESTful APIs
+Authentication & Authorization
+Laravel Sanctum
+Policies & Gates
+Middleware
+Service Container & Dependency Injection
+Eloquent ORM
+Database Relationships
+Service Layer Architecture
+Events & Listeners
+Jobs & Queues
+Laravel Horizon
+Redis
+Caching Strategies
+Task Scheduling & Cron Jobs
+Notifications
+File Storage
+API Resources
+Rate Limiting
+Logging & Error Handling
+```
+
+---
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css,tailwind" />
+</p>
+
+```text
+Vue.js
+JavaScript (ES6+)
+HTML5
+CSS3
+Tailwind CSS
+Responsive Design
+Component-Based Architecture
+State Management
+SPA Development
+API Integration
+Form Validation
+Modern UI Implementation
+Vite
+```
+
+---
+
+## Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+```text
+MySQL
+Database Design
+Relational Database Modeling
+Eloquent Relationships
+Migrations
+Seeders
+Factories
+Query Optimization
+Indexing
+Transactions
+Database Performance Optimization
+```
+
+---
+
+## DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,githubactions" />
+</p>
+
+```text
+Linux
+Docker
+Nginx
+Apache
+Git & GitHub
+GitHub Actions
+CI/CD
+SSH
+Environment Management
+Application Deployment
+Queue Workers
+Supervisor
+Redis
+Cron Jobs
+Server Monitoring
+```
+
+---
+
+# 🧠 Backend Architecture
+
+```text
+                    ┌─────────────────┐
+                    │     Client      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     Vue.js      │
+                    │    Frontend     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │    REST API     │
+                    └────────┬────────┘
+                             │
+                             ▼
+              ┌──────────────────────────┐
+              │       Laravel App        │
+              ├──────────────────────────┤
+              │ Controllers              │
+              │ Services                 │
+              │ Models                   │
+              │ Policies                 │
+              │ Events                   │
+              │ Jobs                     │
+              └────────────┬─────────────┘
+                           │
+              ┌────────────┴─────────────┐
+              ▼                          ▼
+       ┌─────────────┐             ┌─────────────┐
+       │    Redis    │             │    MySQL    │
+       │ Cache/Queue │             │  Database   │
+       └──────┬──────┘             └─────────────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   Horizon   │
+       │   Workers   │
+       └─────────────┘
+```
+
+---
+
+# 🚀 What I Build
+
+### 🏢 Business Platforms
+
+* Company Websites
+* Admin Panels
+* CRM Systems
+* ERP Modules
+* Customer Portals
+* Internal Management Systems
+
+### 🛒 E-Commerce Systems
+
+* Product Management
+* Order Management
+* Payment Integration
+* Discount Systems
+* Inventory Management
+* Installment Systems
+
+### 📄 Business Automation
+
+* Contract Management Systems
+* Document Management Platforms
+* File Sharing Systems
+* Payroll Systems
+* Customer Management
+* Internal Company Dashboards
+
+### ⚡ Scalable Laravel Applications
+
+* Queue-Based Systems
+* Background Jobs
+* Redis Caching
+* Scheduled Tasks
+* Horizon Monitoring
+* API Rate Limiting
+* Database Query Optimization
+* Performance Optimization
+
+---
+
+# 🧩 Engineering Principles
+
+```text
+✔ Clean Code
+✔ SOLID Principles
+✔ DRY
+✔ KISS
+✔ Separation of Concerns
+✔ Maintainable Architecture
+✔ Scalable Systems
+✔ Security First
+✔ Performance Optimization
+✔ Database Optimization
+```
+
+---
+
+# 🧪 Engineering Workflow
+
+```text
+Idea
+ │
+ ▼
+Planning & Requirements
+ │
+ ▼
+Database Design
+ │
+ ▼
+System Architecture
+ │
+ ▼
+Backend Development
+ │
+ ▼
+API Development
+ │
+ ▼
+Frontend Development
+ │
+ ▼
+Testing & Debugging
+ │
+ ▼
+Performance Optimization
+ │
+ ▼
+Deployment
+ │
+ ▼
+Monitoring & Maintenance
+```
+
+---
+
+# 📈 Current Focus
+
+```text
+Advanced Laravel Architecture
+System Design
+Advanced Vue.js
+Redis & Caching
+Queues & Background Processing
+Laravel Horizon
+Database Optimization
+Application Performance
+Docker & Deployment
+CI/CD
+Scalable Web Applications
+```
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ali-jacobi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=ali-jacobi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-jacobi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ali-jacobi">
+  <img src="https://img.shields.io/badge/GitHub-Ali%20Jacobi-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:aliygh8080@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build · Learn · Improve · Repeat
+
+</div>
